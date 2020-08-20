@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rect_pano", "rect_pano\rect_pano.vcxproj", "{8CFAA74C-A3EF-449E-B158-3ED982E20298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Debug|x64.ActiveCfg = Debug|x64
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Debug|x64.Build.0 = Debug|x64
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Debug|x86.Build.0 = Debug|Win32
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Release|x64.ActiveCfg = Release|x64
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Release|x64.Build.0 = Release|x64
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Release|x86.ActiveCfg = Release|Win32
+		{8CFAA74C-A3EF-449E-B158-3ED982E20298}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7ACA03E-8B96-4FC7-B0BD-ED312C3C72FE}
+	EndGlobalSection
+EndGlobal
