@@ -18,5 +18,5 @@
 此处我的实现是转成最小二乘估计的形式用最小二乘求解，不知道原论文是否是这个意思
 
 ## 参考 ##
-(https://github.com/guyuchao/rectangle-panoramic-image)  
+<https://github.com/guyuchao/rectangle-panoramic-image>  
 在此基础上改了很多东西..
